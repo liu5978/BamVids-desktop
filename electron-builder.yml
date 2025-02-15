@@ -125,7 +125,7 @@ npmRebuild: false
 publish:
   # 更新提供商
   provider: github
-  owner: "Hiram-Wong"
-  repo: "ZyPlayer"
+  owner: "liu5978"
+  repo: "new"
 electronDownload:
   mirror: https://npmmirror.com/mirrors/electron/
