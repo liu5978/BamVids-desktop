@@ -1,7 +1,7 @@
 {
-  "name": "竹江大全影视",
+  "name": "zjdqys",
   "version": "1.0.0",
-  "description": "竹江大全影视 client",
+  "description": "zjdqys client",
   "main": "./out/main/index.js",
   "repository": {
     "type": "git",
