@@ -98,7 +98,7 @@ const update = async () => {
                     db.insert(schema.setting).values({ key: item.key, value: { data: item.value } })
                 ),
                 // 添加内置JSON源地址
-                db.insert(schema.setting).values({ key: 'jsonSourceUrl', value: { data: 'https://your - json - source - url.com' } })
+                db.insert(schema.setting).values({ key: 'jsonSourceUrl', value: { data: 'http://yunyuecun.us.kg/d/ZY-Player.json?sign=b0M37txmoxkb2tRjx_beKEpEUj0whG28JpB2L-zsfY0=:0' } })
             ];
             await Promise.all(insertPromises);
             logger.info('[db][init] Initial data inserted into tbl_setting successfully');
