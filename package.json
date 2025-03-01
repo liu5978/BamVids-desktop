@@ -1,11 +1,11 @@
 {
-  "name": "zjdqys",
+  "name": "BamVids",
   "version": "1.0.0",
-  "description": "zjdqys client",
+  "description": "BamVids client",
   "main": "./out/main/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liu5978/new.git"
+    "url": "git+https://github.com/liu5978/BamVids-desktop.git"
   },
   "keywords": [
     "zyplayer",
