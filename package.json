@@ -19,9 +19,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liu5978/new/issues"
+    "url": "https://github.com/liu5978/BamVids-desktop/issues"
   },
-  "homepage": "https://github.com/liu5978/new#readme",
+  "homepage": "https://github.com/liu5978/BamVids-desktop#readme",
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint --ext .vue,.js,.jsx,.ts,.tsx ./ --max-warnings 0",
